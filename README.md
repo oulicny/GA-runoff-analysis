@@ -1,5 +1,12 @@
 # GA-runoff-analysis
 
-Post-election analysis of 2021 Georgia Senate runoffs, looking at the change in turnout from November and differences in turnout between Democratic-leaning counties and Republican-leaning counties.
+Owen Ulicny
+January 2021
 
-Election data came from Georgia Secretary of State website, analysis took place in R and graphics shown with ggplot2.
+This is a post-election analysis of 2021 Georgia Senate runoffs that I used for a project at work. A key question that I had about the election was how turnout changed between the 2020 general election and the 2021 runoffs, specifically whether turnout was higher in Democratic-leaning counties and decreased in Republican-leaning counties.
+
+The main purpose of this code is to create a picture that clearly shows how turnout differed in each county across the state of Georgia and what effect that had on the election (i.e. how populous these counties were). The image can be viewed here.
+
+![alt text] (http://url/to/GA_runoff_OU.png)
+
+As you can see in the image, the most populous counties in the state (Metro Atlanta) had some of the highest turnout rates in the state, while turnout generally decreased in more Republican counties. This analysis painted a picture of how Democrats were able to flip Georgia's U.S. Senate delegation, electing the state's first Black U.S. Senator (Warnock) and first Jewish U.S. Senator (Ossoff).
